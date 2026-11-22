@@ -122,6 +122,6 @@ Proficient in bridging modern LLM reasoning with hardened, production-grade clou
 ---
 
 ### 🤝 Let's Connect
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- 💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/dhanush-s-2338852ba/)
 - 📧 **Email:** [dhanush4102005@gmail.com](mailto:dhanush4102005@gmail.com)
 - 📍 **Location:** Tamil Nadu, India
